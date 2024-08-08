@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="804b9a8a-28ba-4efc-9c87-1b8fa19115b2" name="h8服务器 CUDA新">
+        <fileTransfer rootFolder="/home/zyh" accessType="SFTP" host="10.109.246.233" port="22313" sshConfigId="80cbca24-26e4-4a53-8405-6100ad317ab8" sshConfig="zyh@10.109.246.233:22313 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="caa1e007-303f-4cc6-b838-7cb9f0120bc8" name="h6">
+        <fileTransfer rootFolder="/home/zyh" accessType="SFTP" host="10.109.246.222" port="22313" sshConfigId="3a44acf9-3486-450f-af1b-2c660b718b10" sshConfig="zyh@10.109.246.222:22313 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

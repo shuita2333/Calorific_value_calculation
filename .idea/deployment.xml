@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="h1服务器 CUDA11">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/CODE/Calorific_value_calculation_new" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="h6">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/CODE/Calorific_value_calculation_new" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="h8服务器 CUDA新">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/CODE/Calorific_value_calculation_new" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zyh@10.109.246.222:22313 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zyh/CODE/Calorific_value_calculation_new" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zyh@10.109.246.233:22313 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zyh/CODE/Calorific_value_calculation_new" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

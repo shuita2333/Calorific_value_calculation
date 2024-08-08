@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.109.246.233" id="80cbca24-26e4-4a53-8405-6100ad317ab8" port="22313" nameFormat="DESCRIPTIVE" username="zyh" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.109.246.222" id="fa51d5de-b7b2-4a4f-9276-eacb38c08c11" port="22313" customName="h8服务器 CUDA新" nameFormat="CUSTOM" username="zyh" useOpenSSHConfig="true">
+        <option name="customName" value="h8服务器 CUDA新" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
