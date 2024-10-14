@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from calculation_of_category.cemotion_read_calculate import sum_emotion
 
 '''
-新主函数，使用预处理生成的情感数据进行分析
+新主函数，使用预处理生成的情感数据进行分析 
 '''
 
 time_subsection = 20  # 时间间隔数
